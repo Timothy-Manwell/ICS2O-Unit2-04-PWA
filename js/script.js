@@ -18,7 +18,7 @@ if (navigator.serviceWorker) {
 /**
  * This function calculates the area of a triangle
  */
- function enterClicked() {
+function enterClicked() {
   //input
   const base = parseInt(document.getElementById("base-of-triangle").value)
   const height = parseInt(document.getElementById("height-of-triangle").value)
@@ -30,4 +30,3 @@ if (navigator.serviceWorker) {
   document.getElementById("area-of-triangle").innerHTML =
     "The area of the triangle is " + area + " cm²."
 }
-
