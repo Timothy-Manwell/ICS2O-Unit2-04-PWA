@@ -33,7 +33,9 @@ p {
   padding-top: 15pt;
 }
 
-img {
-  float: right;
-  margin-right: 15px;
+.img1 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
 }
