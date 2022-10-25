@@ -38,8 +38,9 @@ p {
   margin-left: auto;
   margin-right: auto;
   width: 25%;
+  height: auto;
 }
 
 .visually-hidden {
-  font-size: 0px;
+  visibility: hidden;
 }
