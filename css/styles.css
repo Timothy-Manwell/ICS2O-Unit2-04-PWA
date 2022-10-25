@@ -39,3 +39,7 @@ p {
   margin-right: auto;
   width: 25%;
 }
+
+.visually-hidden {
+  font-size: 0px;
+}
